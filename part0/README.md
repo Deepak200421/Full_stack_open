@@ -1,1 +1,4 @@
+# 04-newnote
+
+![04-new-note](https://github.com/Deepak200421/Full_stack_open/assets/149151906/e339a983-c703-4579-a36e-f566e84b11f1)
 
